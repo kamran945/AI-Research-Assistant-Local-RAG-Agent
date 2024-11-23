@@ -1,5 +1,6 @@
 # Local-Ollama-RAG-Agent
 This repo is an implementation of Adaptive RAG, Corrective RAG and Self RAG. Follwing tools have been used in this project:
+-   **Ollama**: A platform for running large language models locally on your device, enabling privacy-focused and efficient AI applications.
 -   **Pinecone** A vector database used for storing and searching embeddings efficiently.
 -   **LangGraph** A framework for building applications powered by language models with seamless integration of tools and workflows.
 -   **Streamlit** A Python library for creating interactive web applications quickly and easily, often used for data visualization and model deployment.
